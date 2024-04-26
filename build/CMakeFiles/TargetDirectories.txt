@@ -1,0 +1,4 @@
+/home/b10h4z4rd/projs/Tetris/Homework-1/build/CMakeFiles/Tetris.dir
+/home/b10h4z4rd/projs/Tetris/Homework-1/build/CMakeFiles/game_Tetris.dir
+/home/b10h4z4rd/projs/Tetris/Homework-1/build/CMakeFiles/edit_cache.dir
+/home/b10h4z4rd/projs/Tetris/Homework-1/build/CMakeFiles/rebuild_cache.dir
