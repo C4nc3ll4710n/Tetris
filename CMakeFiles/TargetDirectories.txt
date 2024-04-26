@@ -1,4 +1,0 @@
-/home/b10h4z4rd/projs/Tetris/Tetris_game/CMakeFiles/Tetris.dir
-/home/b10h4z4rd/projs/Tetris/Tetris_game/CMakeFiles/game_Tetris.dir
-/home/b10h4z4rd/projs/Tetris/Tetris_game/CMakeFiles/edit_cache.dir
-/home/b10h4z4rd/projs/Tetris/Tetris_game/CMakeFiles/rebuild_cache.dir
